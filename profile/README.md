@@ -3,7 +3,8 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=glitchtech-developments&label=Profile%20views&color=0e75b6&style=flat" alt="glitchtech-developments" />
-<a href="https://twitter.com/glitchtecheu" target="blank"><img src="https://img.shields.io/twitter/follow/GlitchTechEU?logo=twitter&style=for-the-badge" alt="glitchtecheu" /></a> 
+<a href="https://twitter.com/glitchtecheu" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GlitchTechEU">
+</a> 
 </p>
 
 - 🔭 We currently work on multiple **Web, Software, App and Game development projects**
